@@ -771,18 +771,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Expo** - Cross-platform development tools
 - **OpenZeppelin** - Smart contract libraries
 
-## 📞 Contact & Links
-
-- **GitHub**: [@Adityaakr](https://github.com/Adityaakr)
-- **Project**: [Proteus Finance](https://github.com/Adityaakr/Proteus-Finance)
-- **BNB Testnet Explorer**: [BscScan Testnet](https://testnet.bscscan.com/)
-
-## 🎬 Demo
-
-Try the live demo: [Coming Soon]
 
 ---
-
-**Built with ❤️ by the Proteus Finance Team**
-
-*Empowering the future of decentralized finance with AI-powered automation*
